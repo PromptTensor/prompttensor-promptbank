@@ -1,0 +1,106 @@
+domains:
+  academic_research:
+    - abstract_rewriting
+    - citation_summaries
+    - dissertation_writing
+    - experimental_design
+    - literature_review
+    - peer_review_style
+    - research_methods
+    - research_proposals
+    - systematic_review
+    - theory_translation
+  business:
+    - branding
+    - digital_transformation
+    - finance_accounting
+    - hr_people_ops
+    - operations
+    - project_management
+    - sales
+    - strategy
+  creative_writing:
+    - character_design
+    - dialogue
+    - genre_adaptation
+    - narrative_analysis
+    - poetry
+    - screenplay
+    - setting_transposition
+    - short_story
+    - story_structure
+    - worldbuilding
+  customer_support:
+    - escalation_handling
+    - faq_knowledge_base
+    - knowledge_base
+    - onboarding_guides
+    - refunds_returns
+    - technical_docs
+    - tone_empathy
+    - troubleshooting
+  education:
+    - curriculum_design
+    - curriculum_materials
+    - explanation_tutoring
+    - history
+    - language_learning
+    - lesson_plans
+    - math_stem
+    - pedagogy
+    - quizzes_assessments
+    - study_guides
+  health:
+    - nutrition
+  legal:
+    - contracts
+  legal_policy:
+    - compliance
+    - contracts_clauses
+    - internal_policies
+    - privacy_policy
+    - regulatory_summary
+  machine_learning:
+    - federated_learning
+    - mlops
+  marketing:
+    - ads_copy
+    - analytics_kpis
+    - branding
+    - branding_positioning
+    - email_marketing
+    - seo
+    - seo_content
+    - social_media
+  policy:
+    - privacy
+  product_reviews:
+    - appliances
+    - beauty_personal_care
+    - cars_auto_accessories
+    - home_appliances
+    - kitchen_appliances
+    - laptops
+    - restaurants_food
+    - smartphones
+    - vacuum_cleaners
+  science_tech:
+    - ai_ml
+    - cloud_devops
+    - cybersecurity
+    - devops
+    - electronics_iot
+    - networking
+    - space_astronomy
+  software_engineering:
+    - debugging
+  writing:
+    - business
+
+intents:
+  - critique_review
+  - generation
+  - planning
+  - rewrite_paraphrase
+  - summarization
+  - translation

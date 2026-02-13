@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "PromptTensor Prompt Bank"
+type: dataset
+version: "1.0.0"
+year: 2026
+license: "CC-BY-4.0"
+url: "https://prompttensor.com/datasets/prompttensor-promptbank-v1"
+authors:
+  - name: "PromptTensor"

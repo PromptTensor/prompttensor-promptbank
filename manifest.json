@@ -1,0 +1,23 @@
+{
+  "dataset_name": "PromptTensor Prompt Bank",
+  "version": "v1.0.0",
+  "publisher": "PromptTensor",
+  "license": "CC-BY-4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "language": [
+    "en"
+  ],
+  "size_prompts": 7040,
+  "generation_window_start": "2025-08-11",
+  "generation_window_end": "2026-02-04",
+  "contains_model_outputs": false,
+  "contact": "datasets@prompttensor.com",
+  "canonical_page": "https://prompttensor.com/datasets/prompttensor-promptbank-v1",
+  "files": [
+    "prompts_public.jsonl",
+    "prompts.csv",
+    "prompts.parquet",
+    "taxonomy.yaml",
+    "splits.csv",
+  ]
+}
