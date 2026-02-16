@@ -1,4 +1,4 @@
-# DATA_DICTIONARY — PromptTensor Prompt Bank (v1.0.0)
+# DATA_DICTIONARY — PromptTensor Prompt Bank (v1.0.1)
 
 This data dictionary describes the public release files:
 - `prompts_public.jsonl` (canonical, JSONL)

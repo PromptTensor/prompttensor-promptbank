@@ -6,7 +6,7 @@ The format is inspired by Keep a Changelog, but adapted for datasets.
 
 ---
 
-## v1.0.0 — 2026-02-04
+## v1.0.1 — 2026-02-16
 ### Added
 - Initial public release of **PromptTensor Prompt Bank** with **7,040** English prompts.
 - Labels: `domain`, `subdomain`, `intent`, plus structured `constraints`.

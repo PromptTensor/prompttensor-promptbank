@@ -2,13 +2,13 @@ cff-version: 1.2.0
 message: "If you use this dataset, please cite the DOI below. For details and updates, see the canonical dataset page."
 title: "PromptTensor Prompt Bank"
 type: dataset
-version: "1.0.0"
+version: "1.0.1"
 year: 2026
 license: "CC-BY-4.0"
 url: "https://prompttensor.com/datasets/prompttensor-promptbank-v1"
 
-# v1.0.0 (version-specific DOI)
-doi: "10.5281/zenodo.18642964"
+# v1.0.1 (version-specific DOI)
+doi: "10.5281/zenodo.18665254"
 
 # Extra identifiers (all-versions DOI + mirrors)
 identifiers:
@@ -28,7 +28,7 @@ preferred-citation:
   authors:
     - name: "PromptTensor"
   year: 2026
-  version: "1.0.0"
-  doi: "10.5281/zenodo.18642964"
+  version: "1.0.1"
+  doi: "10.5281/zenodo.18665254"
   url: "https://prompttensor.com/datasets/prompttensor-promptbank-v1"
   license: "CC-BY-4.0"

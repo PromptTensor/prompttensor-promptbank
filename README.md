@@ -1,6 +1,6 @@
-# PromptTensor Prompt Bank (v1.0.0)
+# PromptTensor Prompt Bank (v1.0.1)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18642964.svg)](https://doi.org/10.5281/zenodo.18642964)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18665254.svg)](https://doi.org/10.5281/zenodo.18665254)
 
 A high-quality **English prompt bank** for LLM research and prompt-engineering experiments.  
 Each prompt is labeled by **domain / subdomain / intent** and includes structured constraints for controllable outputs.
@@ -16,7 +16,7 @@ Each prompt is labeled by **domain / subdomain / intent** and includes structure
 - **Hugging Face (primary):** https://huggingface.co/datasets/PromptTensor/prompttensor-promptbank
 - **Canonical page (recommended backlink):** https://prompttensor.com/datasets/prompttensor-promptbank-v1
 - **Zenodo (all versions / concept DOI):** https://doi.org/10.5281/zenodo.18642963
-- **Zenodo (v1.0.0 / version DOI):** https://doi.org/10.5281/zenodo.18642964
+- **Zenodo (v1.0.1 / version DOI):** https://doi.org/10.5281/zenodo.18665254
 
 ## TL;DR
 This dataset contains **user prompts only** (not model outputs). It is designed for:
@@ -73,21 +73,21 @@ This dataset is released under **Creative Commons Attribution 4.0 International 
 License text and link: https://creativecommons.org/licenses/by/4.0/
 
 ## Citation
-**Recommended (cite v1.0.0 / version DOI):** https://doi.org/10.5281/zenodo.18642964  
+**Recommended (cite v1.0.1 / version DOI):** https://doi.org/10.5281/zenodo.18665254  
 **All versions (concept DOI):** https://doi.org/10.5281/zenodo.18642963  
 **Canonical page:** https://prompttensor.com/datasets/prompttensor-promptbank-v1
 
-Suggested citation (v1.0.0):
-> PromptTensor. *PromptTensor Prompt Bank* (v1.0.0). 2026. DOI: 10.5281/zenodo.18642964. Canonical page: https://prompttensor.com/datasets/prompttensor-promptbank-v1
+Suggested citation (v1.0.1):
+> PromptTensor. *PromptTensor Prompt Bank* (v1.0.1). 2026. DOI: 10.5281/zenodo.18665254. Canonical page: https://prompttensor.com/datasets/prompttensor-promptbank-v1
 
-BibTeX (v1.0.0 / version DOI):
+BibTeX (v1.0.1 / version DOI):
 ```bibtex
 @dataset{prompttensor_promptbank_v1_0_0,
   title   = {PromptTensor Prompt Bank},
   author  = {PromptTensor},
   year    = {2026},
-  version = {1.0.0},
-  doi     = {10.5281/zenodo.18642964},
+  version = {1.0.1},
+  doi     = {10.5281/zenodo.18665254},
   url     = {https://prompttensor.com/datasets/prompttensor-promptbank-v1},
   license = {CC-BY-4.0}
 }
